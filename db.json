@@ -7,7 +7,7 @@
     { "id": 5, "name": "SM HỌA TIẾT ERICATINO 49", "urlImage":"https://cdn.nhanh.vn/cdn/store/3676/ps/20190709/img_0650_thumb.jpg","price":"320000","salePrice":"99000","new":true,"qty":20},
     { "id": 6, "name": "PHÔNG AMANI LOGO NGỰC", "urlImage":"https://cdn.nhanh.vn/cdn/store/3676/ps/20191125/img_9168_1000x800.jpg","price":"250000","salePrice":"49000","new":false,"qty":30},
     { "id": 7, "name": "QUẦN ÂU GALVIN DỆT CHÌM", "urlImage":"https://cdn.nhanh.vn/cdn/store/3676/ps/20200106/f_thumb.jpg","price":"420000","salePrice":"210000","new":true,"qty":15},
-    { "id": 8, "name": "SM GALVIN HỌA TIẾT 9", "urlImage":"https://cdn.nhanh.vn/cdn/store/3676/ps/20200108/9aa_thumb.jpg","price":"300000","salePrice":,"new":false,"qty":0}
+    { "id": 8, "name": "SM GALVIN HỌA TIẾT 9", "urlImage":"https://cdn.nhanh.vn/cdn/store/3676/ps/20200108/9aa_thumb.jpg","price":"300000","salePrice":"","new":false,"qty":0}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
